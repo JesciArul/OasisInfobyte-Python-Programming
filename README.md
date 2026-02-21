@@ -1,22 +1,22 @@
 # 📌 Oasis Infobyte Python Programming Internship Projects
 
-Welcome to my Python Programming Internship repository! 🎓  
-This repository contains Python projects completed during my internship.
+Welcome to my **Python Programming Internship** repository! 🎓  
+This repository contains Python projects completed during my internship at **Oasis Infobyte**.
 
 ---
 
 ## 🚀 Internship Overview
 
 ### 🎯 Objective
-The goal of this internship was to gain practical experience in Python programming by completing real-world coding tasks.
+The main objective of this internship was to gain practical hands-on experience in Python programming by completing real-world coding tasks.
 
 ### 💡 Skills Practiced
-- Python fundamentals  
-- Conditional statements and loops  
-- Standard libraries usage  
-- Networking basics  
-- Problem solving  
-- Command-line applications  
+- Python Fundamentals  
+- Conditional Statements and Loops  
+- Standard Libraries Usage  
+- Networking Basics  
+- Problem Solving Techniques  
+- Command-Line Application Development  
 
 ---
 
@@ -27,66 +27,68 @@ The goal of this internship was to gain practical experience in Python programmi
 ### ✅ 1. BMI Calculator
 
 📖 **Description:**  
-This program calculates Body Mass Index (BMI) based on user input weight and height.
+This program calculates Body Mass Index (BMI) using user input values for weight and height.
 
-⭐ **Why this project?**
+⭐ **Why this project?**  
 - Helps understand mathematical operations in Python  
-- Uses conditional logic  
-- Improves output formatting skills  
+- Demonstrates conditional logic implementation  
+- Improves formatted output skills  
 
 🔗 **Code Link:**  
-👉 https://github.com/JesciArul/OasisInfobyte-Python-Programming/blob/main/Python%20dev/BMI%20Calculator.py
+👉 [View BMI Calculator Code](https://github.com/JesciArul/OasisInfobyte-Python-Programming/blob/main/Python%20dev/BMI%20Calculator.py)
 
 ---
 
 ### ✅ 2. Random Password Generator
 
 📖 **Description:**  
-Generates a secure random password using letters, digits, and special characters.
+This program generates a secure random password using letters, digits, and special characters.
 
-⭐ **Why this project?**
-- Introduces Python standard libraries (`random`, `string`)  
-- Demonstrates secure random selection techniques  
+⭐ **Why this project?**  
+- Introduces Python standard libraries such as `random` and `string`  
+- Demonstrates secure random selection methods  
+- Useful for cybersecurity-related basic applications  
 
 🔗 **Code Link:**  
-👉 https://github.com/JesciArul/OasisInfobyte-Python-Programming/blob/main/Python%20dev/Random%20Password%20Generator.py
+👉 [View Password Generator Code](https://github.com/JesciArul/OasisInfobyte-Python-Programming/blob/main/Python%20dev/Random%20Password%20Generator.py)
+
 ---
 
 ### ✅ 3. Client-Server Chat Application (Socket Programming)
 
 📖 **Description:**  
-A simple real-time chat application using Python socket programming.
+A simple real-time chat application built using Python socket programming.
 
-⭐ **Why this project?**
-- Understand networking concepts  
-- Learn client-server architecture  
-- Implement message exchange using TCP sockets  
+⭐ **Why this project?**  
+- Helps understand networking fundamentals  
+- Introduces client-server architecture  
+- Implements real-time message exchange using TCP sockets  
 
 🔗 **Server Code Link:**  
-👉 https://github.com/JesciArul/OasisInfobyte-Python-Programming/blob/main/Python%20dev/Client-Server%20Chat%20Application.py
+👉 [View Server Code](https://github.com/JesciArul/OasisInfobyte-Python-Programming/blob/main/Python%20dev/Client-Server%20Chat%20Application.py)
 
 🔗 **Client Code Link:**  
-👉 https://github.com/JesciArul/OasisInfobyte-Python-Programming/blob/main/Python%20dev/client.py 
+👉 [View Client Code](https://github.com/JesciArul/OasisInfobyte-Python-Programming/blob/main/Python%20dev/client.py)
 
 ---
 
 ## 🧠 What I Learned
 
-✔ Python programming basics  
-✔ Working with built-in modules  
-✔ Networking using sockets  
-✔ Writing clean and maintainable code  
-✔ Logical problem solving  
+✔ Python Programming Basics  
+✔ Working with Built-in Modules  
+✔ Socket Networking Concepts  
+✔ Writing Clean and Maintainable Code  
+✔ Logical Problem Solving  
 
 ---
 
 ## 🙌 Conclusion
 
-This internship improved my practical Python development skills and provided exposure to real-world programming tasks.
+This internship helped improve my practical Python development skills and provided exposure to real-world programming and networking concepts.
 
-⭐ Feel free to explore and use the code.
+⭐ Feel free to explore and modify the code.
 
 ---
 
 ## 📌 Repository Link
-👉 https://github.com/JesciArul/OasisInfobyte-Python-Programming
+👉 [Oasis Infobyte Python Programming Repository](https://github.com/JesciArul/OasisInfobyte-Python-Programming)
