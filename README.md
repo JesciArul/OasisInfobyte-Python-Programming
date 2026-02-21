@@ -35,7 +35,7 @@ This program calculates Body Mass Index (BMI) based on user input weight and hei
 - Improves output formatting skills  
 
 🔗 **Code Link:**  
-👉 https://github.com/JesciArul/OasisInfobyte-Python-Programming/blob/main/BMI_Calculator.py  
+👉 https://github.com/JesciArul/OasisInfobyte-Python-Programming/blob/main/Python%20dev/BMI%20Calculator.py
 
 ---
 
@@ -49,8 +49,7 @@ Generates a secure random password using letters, digits, and special characters
 - Demonstrates secure random selection techniques  
 
 🔗 **Code Link:**  
-👉 https://github.com/JesciArul/OasisInfobyte-Python-Programming/blob/main/Password_Generator.py  
-
+👉 https://github.com/JesciArul/OasisInfobyte-Python-Programming/blob/main/Python%20dev/Random%20Password%20Generator.py
 ---
 
 ### ✅ 3. Client-Server Chat Application (Socket Programming)
@@ -64,10 +63,10 @@ A simple real-time chat application using Python socket programming.
 - Implement message exchange using TCP sockets  
 
 🔗 **Server Code Link:**  
-👉 https://github.com/JesciArul/OasisInfobyte-Python-Programming/blob/main/server.py  
+👉 https://github.com/JesciArul/OasisInfobyte-Python-Programming/blob/main/Python%20dev/Client-Server%20Chat%20Application.py
 
 🔗 **Client Code Link:**  
-👉 https://github.com/JesciArul/OasisInfobyte-Python-Programming/blob/main/client.py  
+👉 https://github.com/JesciArul/OasisInfobyte-Python-Programming/blob/main/Python%20dev/client.py 
 
 ---
 
